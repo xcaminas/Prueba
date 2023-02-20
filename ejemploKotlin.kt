@@ -1,22 +1,21 @@
 fun main(args: Array<String>) {
-    literals()
-    templates()
+    literales()
+    plantillas()
 }
 
-private fun templates() {
-    val number = 18
-    val name = "vicboma $number"
-    println(name)
+private fun plantillas() {
+    val numero = 18
+    val nombre = "pruebaKotlin $numero"
+    println(nombre)
 
-    println("$name.length = ${name.length}")
+    println("$nombre.length = ${nombre.length}")
 
-    val price = "${'$'}9.99 = 9.99 dollars"
-    println(price)
+    val precio = "${'€'}10.99 = 100.99 euros"
+    println(precio)
 }
 
-private fun literals() {
-    val helloWorld = "Hello, world!"
-    println(helloWorld)
-    val str = "Hello, world!\n..."   // w/backslash
-    println(str)
-}
+private fun literales() {
+    val holamundo = "Hola, mundo!"
+    println(holamundo)
+    val frase = "Hola, mundo!\n..."   // w/backslash
+    println(frase)
