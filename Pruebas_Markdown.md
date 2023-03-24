@@ -8,3 +8,6 @@ f<sub>x</sub>
 ~~Texto tachado~~
 ***Negrita y cursiva***
 **Negrita _cursiva y negrita_ negrita**
+> Quota
+
+--Kotlin posee la instrucción 'println()'
