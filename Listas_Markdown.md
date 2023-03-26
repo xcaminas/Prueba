@@ -15,3 +15,9 @@
 2. Elemento de lista 2
     1. Subelemento de lista 2
 3. Elemento de lista 3
+
+# Lista de tareas
+
+- [x] Visitar Github
+- [ ] Visitar Google
+- [ ] Todas las taeas completadas :tada:
