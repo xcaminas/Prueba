@@ -16,18 +16,9 @@ f<sub>x</sub>
 
 **Negrita _cursiva y negrita_ negrita**
 
-> Quota
+> La practica hace al maestro
 
-Kotlin posee la instrucción `println`
+[Google] (https://www.google.com/ "Buscador de Google").
 
-Instrucciones Shell
-```
-ls
-dir 
-rm
-```
+![ Logo Github ] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
 
-Lista de tareas
-- [x] Visitar Github
-- [ ] Visitar Google
-- [ ] Todas las taeas completas :tada:
