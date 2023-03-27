@@ -18,7 +18,8 @@ f<sub>x</sub>
 
 > La practica hace al maestro
 
-[Google] (https://www.google.com/ "Buscador de Google").
+[Google](https://www.google.com/ "Buscador de Google")
 
-![ Logo Github ] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) 
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
